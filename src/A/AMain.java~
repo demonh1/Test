@@ -14,7 +14,7 @@ import jade.lang.acl.*;
 
 /**
  *
- * @author demonh
+ * @author Admin
  */
 public class AMain extends Agent {
     @Override
